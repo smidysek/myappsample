@@ -11,18 +11,18 @@ První projekt pro test gitu.
 ### Požadavky
 
 * Před instalací programu popište všechny nezbytné předpoklady, knihovny, verzi OS atd.
-* Windows 10
+* Jakýkoliv prohlížeč: firefox, chrome...
 
 ### Instalace
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Jak stáhnout soubor?
+* Na githubu stáhněte celý .zip
 
 ### Spuštění programu
 
-* Jak spustit program
+* Jak spustit animaci
 ```
-code blocks for commands
+Otevřete soubor index.html v proflížeči.
 ```
 
 ## Nápověda
