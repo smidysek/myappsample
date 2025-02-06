@@ -27,6 +27,7 @@ code blocks for commands
 
 ## Nápověda
 
+```
 Rady...tipy...
 ```
 
