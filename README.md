@@ -10,12 +10,10 @@ První projekt pro test gitu.
 
 ### Požadavky
 
-* Před instalací programu popište všechny nezbytné předpoklady, knihovny, verzi OS atd.
-* Jakýkoliv prohlížeč: firefox, chrome...
+* Potřebujete pouze jakýkoliv prohlížeč: firefox, chrome...
 
 ### Instalace
 
-* Jak stáhnout soubor?
 * Na githubu stáhněte celý .zip
 
 ### Spuštění programu
@@ -46,4 +44,4 @@ Tomas Smid
 
 ## License
 
-Tento projekt je licencován pod licencí... – podrobnosti naleznete v souboru LICENSE.md
+Tento projekt je licencován pod licencí...
